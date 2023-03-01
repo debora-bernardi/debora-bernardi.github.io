@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(194, 164, 241);
+    font-family: Gill Sans, sans-serif;
+    line-height: 2rem;
+  
+  }
+
+
+
+
+
+.botao-social {
+    width: 60px;
+    height: 60px;
+  }
+  
+  #linkedin {
+    position: absolute;
+    right: 5px;
+    top: 10px;
+  }
+  
+  #github {
+    position: absolute;
+    right: 95px;
+    top: 13px;
+    width: 53px;
+    height: 53px;
+  }
